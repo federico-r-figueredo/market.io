@@ -5,7 +5,7 @@
     "main": "./src/server.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/federico-r-figueredo/vidly.git"
+        "url": "git://github.com/federico-r-figueredo/market.io.git"
     },
     "engines": {
         "node": ">= 8.0.0 < 9.0.0",
