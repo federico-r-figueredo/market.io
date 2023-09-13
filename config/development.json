@@ -1,0 +1,6 @@
+{
+    "project": "market.io - dev",
+    "mail": {
+        "host": "dev-mail-server"
+    }
+}

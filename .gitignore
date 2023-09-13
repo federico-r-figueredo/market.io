@@ -1,0 +1,4 @@
+node_modules
+logs/info/info.log
+logs/error/error.log
+env.ps1
